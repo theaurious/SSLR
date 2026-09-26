@@ -210,7 +210,7 @@ G:Localization({
     },
   },
 })
-G:Notify({ Title = "RysHub 🇦🇷", Content = "Loading GUI...", Duration = 4, Icon = "sparkles" })
+G:Notify({ Title = "RysHub 🇦🇷 cracked" , Content = "Loading GUI...", Duration = 4, Icon = "sparkles" })
 local K = game:GetService("Players")
 local L = game:GetService("RunService")
 local M = game:GetService("UserInputService")
